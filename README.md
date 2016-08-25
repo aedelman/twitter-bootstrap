@@ -1,1 +1,1 @@
-# twitter-bootstrap
+Project Twitter Bootstrap with NewsWeek
